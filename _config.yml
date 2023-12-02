@@ -84,7 +84,7 @@ author:
   avatar           : "Zichao_2023.jpg"
   bio              : "Let There Be Light"
   location         : "Berkeley, CA"
-  employer         :
+  employer         : "Department of Chemistry, University of California Berkeley"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OuI5mZMAAAAJ&hl=en&oi=aom"
   email            : "zcrong@berkeley.edu"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zichao-rong-5869011a3/"
-  orcid            : "0000-0002-9014-9540"
+  linkedin         : "https://www.linkedin.com/zichao-rong-5869011a3/"
+  orcid            : "https://orcid.org/0000-0002-9014-9540"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
