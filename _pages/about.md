@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in [Yaghi Lab](yaghi.berkeley.edu), Department of Chemistry, University of California Berkeley. Prior to that, I obtained my bachelor degree in Materials Chemistry from Peking University in 2020. My research interests are solving and analyzing crystal structures through X-ray diffraction, studying the crystallization process by multi-scale computational modelling, and integrating machine learning with lab automation and materials discovery.  
+I am currently a PhD candidate in [Yaghi Lab](yaghi.berkeley.edu), Department of Chemistry, University of California Berkeley. Prior to that, I obtained my bachelor degree in Materials Chemistry from Peking University in 2020. 
+My research interests are solving and analyzing crystal structures through X-ray diffraction, studying the crystallization process by multi-scale computational modelling, and integrating machine learning with lab automation and materials discovery.  
 
 <!--
 A data-driven personal website
